@@ -1,0 +1,19 @@
+{
+    "title": ".gitignore edited online with Bitbucket",
+    "source": {
+      "repository": {
+        "full_name": "tdtestdev/mobile-banking"
+      },
+      "branch": {
+        "name": "dev1"
+      }
+    },
+    "destination": {
+      "branch": {
+        "name": "master"
+      }
+    },
+    "description": "test",
+    "close_source_branch": false,
+    "reviewers": []
+  }

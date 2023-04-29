@@ -1,0 +1,18 @@
+https://bitbucket.org/!api/2.0/repositories/tdtestdev/mobile-banking/pullrequests/
+
+
+curl -v https://bitbucket.org/!api/2.0/repositories/tdtestdev/mobile-banking/pullrequests/ \
+  --request POST \
+  --header 'Content-Type: application/json' \
+  -H "Accept: application/json"
+   -H "Authorization: Bearer yrfuT_HUG_yMB5KrxtqcYLH1zeeJf6WW8WabuNdnGZUMLvwxQIuGYwB1kZ-QN_g6lFNZwh-jrJCVqZv5V9kwbo0VbodvMjWUUNZitzpV5yOmsMPkCzI3rAbTusEZfZRppvzR3wHPMzlsgY8G48V8Yga2xmi-"
+  --data '{
+    "title": "My Title",
+    "source": {
+      "branch": {
+        "name": "dev1"
+      }
+    }
+  }'
+
+  
